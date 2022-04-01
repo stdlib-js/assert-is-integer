@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/assert-is-integer",
+  "version": "0.0.0",
+  "description": "Test if a value is a number having an integer value.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/assert-is-integer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdassert",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "number",
+    "numeric",
+    "integer",
+    "int",
+    "is",
+    "isinteger",
+    "type",
+    "check",
+    "primitive",
+    "object"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
