@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-integer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Test if a value is a number having an integer value.",
   "license": "Apache-2.0",
   "author": {
@@ -37,11 +37,11 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-number": "^0.1.1",
-    "@stdlib/constants-float64-ninf": "^0.1.1",
-    "@stdlib/constants-float64-pinf": "^0.1.1",
-    "@stdlib/math-base-assert-is-integer": "^0.1.1",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
+    "@stdlib/assert-is-number": "^0.2.0",
+    "@stdlib/constants-float64-ninf": "^0.2.0",
+    "@stdlib/constants-float64-pinf": "^0.2.0",
+    "@stdlib/math-base-assert-is-integer": "^0.2.0",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.1.1",
