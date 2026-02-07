@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-integer",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Test if a value is a number having an integer value.",
   "license": "Apache-2.0",
   "author": {
@@ -38,14 +38,14 @@
   },
   "dependencies": {
     "@stdlib/assert-is-number": "^0.2.2",
-    "@stdlib/constants-float64-ninf": "^0.2.2",
-    "@stdlib/constants-float64-pinf": "^0.2.2",
-    "@stdlib/math-base-assert-is-integer": "^0.2.6",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
+    "@stdlib/constants-float64-ninf": "^0.2.3",
+    "@stdlib/constants-float64-pinf": "^0.2.3",
+    "@stdlib/math-base-assert-is-integer": "^0.2.7",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.2",
-    "@stdlib/number-ctor": "^0.2.2",
+    "@stdlib/number-ctor": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
